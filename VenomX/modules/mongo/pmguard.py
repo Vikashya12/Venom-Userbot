@@ -70,7 +70,7 @@ async def get_pm_image() -> str:
     image = await pmimagedb.find_one()
     if not image:
         return vars.USERBOT_PICTURE
-    get_image = image["pm_image"]
+    get_image = image["https://telegra.ph/file/dce89ea79f06caa53d734.jpg"]
     return get_image
 
 
@@ -78,7 +78,7 @@ async def set_pm_image(text: str) -> bool:
     get_image = await get_pm_image()
     await pmimagedb.update_one(
         {"pm_image": get_image},
-        {"$set": {"pm_image": text}},
+        {"$set": {"https://telegra.ph/file/dce89ea79f06caa53d734.jpg": text}},
         upsert=True,
     )
     return True
