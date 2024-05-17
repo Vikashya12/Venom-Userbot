@@ -62,7 +62,7 @@ VenomX Userbot » {__version__} ✨...
 Click On Below 💖 Buttons To
 Get Userbot Commands.
 
-💘Powered By : [Venom](https://t.me/Venomowners).**
+💘Powered By : [DHPR](https://t.me/OWNER_DHPR).**
 """
     
     if plug_match:
