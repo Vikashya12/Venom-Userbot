@@ -70,7 +70,7 @@ def inline_wrapper(func):
                     [
                         InlineKeyboardButton(
                             "💥 Deploy VenomX Userbot ✨",
-                            url=f"https://github.com/venombolteop/Venom-Userbot"
+                            url=f"https://github.com/Vikashya12/Venom-Userbot"
                         )
                     ]
                 ]
@@ -100,7 +100,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**🥀 Please, Deploy Your Own VenomX Userbot❗...\n\nRepo:** <i>https://github.com/venombolteop/Venom-Userbot/</i>||"
+                                    f"||**🥀 Please, Deploy Your Own VenomX Userbot❗...\n\nRepo:** <i>https://github.com/Vikashya12/Venom-Userbot</i>||"
                                 ),
                             )
                         )
