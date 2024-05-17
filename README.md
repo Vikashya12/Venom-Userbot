@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/VenomOwners"><img src="https://te.legra.ph/file/0b373de1c657129297c39.jpg"></a></p>
+<p align="center"><a href="https://t.me/VenomOwners"><img src="https://telegra.ph/file/dce89ea79f06caa53d734.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 # ㅤㅤ ᴠᴇɴᴏᴍx 🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ & ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ᴠᴇɴᴏᴍ 🖤](https://t.me/Venom_bolte_pubIic)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ᴠᴇɴᴏᴍ 🖤](https://t.me/OWNER_DHPR)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # ㅤㅤㅤDᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
