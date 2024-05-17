@@ -11,7 +11,7 @@ async def help_menu_logo(answer):
     if image:
         thumb_image = image
     else:
-        thumb_image = "https://te.legra.ph/file/0b373de1c657129297c39.jpg"
+        thumb_image = "https://telegra.ph/file/dce89ea79f06caa53d734.jpg"
     button = paginate_plugins(0, plugs, "help")
     answer.append(
         InlineQueryResultPhoto(
@@ -26,7 +26,7 @@ VenomX Userbot » {__version__} ✨...
 Click On Below 💖 Buttons To
 Get Userbot Commands.
 
-💕Powered By : [Venom](https://t.me/Venomowners).**
+💕Powered By : [DHPR](https://t.me/OWNER_DHPR).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -47,7 +47,7 @@ VenomX Userbot » {__version__} ✨...
 Click On Below 💓 Buttons To
 Get Userbot Commands.
 
-💘Powered By : [Venom](https://t.me/VenomOwners).**""",
+💘Powered By : [DHPR](https://t.me/OWNER_DHPR).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
